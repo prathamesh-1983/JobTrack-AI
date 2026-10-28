@@ -250,7 +250,7 @@ These are planned enhancements, not claims about currently implemented functiona
 
 **Database technology:** Appwrite TablesDB
 
-**Repository:** `https://github.com/YOUR_USERNAME/jobtrack-ai`
+**Repository:** https://github.com/prathamesh-1983/JobTrack-AI
 
 **Demo video:** https://drive.google.com/file/d/1YPg5KNF-IOTwgGUvoQzqJKrcW58FnfwW/view?usp=sharing
 
