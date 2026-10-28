@@ -252,7 +252,7 @@ These are planned enhancements, not claims about currently implemented functiona
 
 **Repository:** `https://github.com/YOUR_USERNAME/jobtrack-ai`
 
-**Demo video:** `ADD_YOUR_DEMO_VIDEO_URL`
+**Demo video:** https://drive.google.com/file/d/1YPg5KNF-IOTwgGUvoQzqJKrcW58FnfwW/view?usp=sharing
 
 The submission should include a public repository, a short demo video, and any other materials required by the official event dashboard.
 
